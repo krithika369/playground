@@ -4,4 +4,4 @@ A place to play with `git`.
 
 ### Fall 2020
 
-Krithika Sundararajan is taking CSCI E-207 this fall.
+Krithika Sundararajan is taking CSCI E-207 this fall. She is an Extension school student, doing her Masters.
