@@ -1,4 +1,4 @@
-# Playground
+# Playground - Krithika
 
 A place to play with `git`.
 
